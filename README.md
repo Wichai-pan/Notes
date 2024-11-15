@@ -1,2 +1,2 @@
 # Notes
- Wichai_pan's notes
+ Hi 👋, this is Wichai_pan's notes.
