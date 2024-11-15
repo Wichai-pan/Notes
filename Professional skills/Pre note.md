@@ -1,0 +1,7 @@
+- Hello, my name is Huatai Pan
+- I am the third Person in this Slide
+- Here is my contribution Outline
+  - ...
+- First of all
+  - I intialize the cmake ...
+  - at first I only try
